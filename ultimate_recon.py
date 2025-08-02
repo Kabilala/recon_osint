@@ -6,17 +6,10 @@ import subprocess
 from datetime import datetime
 
 # === CONFIGURATION ===
-DOMAIN = "alipayplus.com"
+DOMAIN = "target.com"
 JS_URLS = [
-    "https://gw.alipayobjects.com/os/lib/alipay/creek-ui/1.1.6/dist/creek-ui.min.js",
-    "https://gw.alipayobjects.com/os/lib/antd/4.24.16/dist/antd.min.js",
-    "https://gw.alipayobjects.com/os/lib/moment/2.29.1/min/moment-with-locales.js",
-    "https://gw.alipayobjects.com/os/lib/moment/2.29.2/moment.js",
-    "https://gw.alipayobjects.com/os/lib/react/16.14.0/umd/react.production.min.js",
-    "https://gw.alipayobjects.com/os/lib/react-dom/16.14.0/umd/react-dom.production.min.js",
-    "https://gw.alipayobjects.com/os/lib/umijs/react-router-dom/5.2.0/umd/react-router-dom.js",
-    "https://gw.alipayobjects.com/render/p/yuyan/180020010001199582/umi.f91f52a8.js",
-    "https://render-intl.alipayobjects.com/p/yuyan/180020010001209339/main-6a36bf84.js",
+    "https://xxxxxxxxxxx.js",
+    ,
 ]
 KEYWORDS = ["token", "auth", "callback", "redirect", "innerHTML", "eval", "setTimeout", "setInterval"]
 REGEXES = {
