@@ -90,8 +90,3 @@ Le script exécutera **tout automatiquement**.
 * [ ] Ajouter une CLI avec `argparse`
 * [ ] Intégration Shodan/Wayback
 * [ ] Ajout de scan DNS/ports avec `dnsx`, `naabu`, etc.
-
----
-
-Souhaites-tu aussi que je te crée automatiquement le `requirements.txt` et un `.gitignore` pour ce projet ?
-```
